@@ -7,7 +7,7 @@ tmux.
 
 ## Preview
 
-![home](./assets/home.png) ![select](./assets/select.png) ![windows](./assets/windows.png)
+<img src="./assets/home.png" width="250" alt="home"> <img src="./assets/select.png" width="250" alt="select"> <img src="./assets/windows.png" width="250" alt="windows">
 
 ## Installation
 
